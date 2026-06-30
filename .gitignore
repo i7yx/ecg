@@ -1,0 +1,18 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境（如果你用了的话）
+venv/
+env/
+.env
+
+# 打包生成的超大文件 (防止超过 GitHub 100MB 限制)
+APP/
+*.exe
+build/
+dist/
+APP.bat
+APP.dist.zip
+.vscode
