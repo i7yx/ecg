@@ -86,7 +86,7 @@ ECG_Analysis/
 
 1. **克隆/下载项目**：
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/i7yx/ecg.git
    cd ECG_Analysis
    ```
 
@@ -100,8 +100,10 @@ ECG_Analysis/
 ## 🚀 快速开始
 
 ### I 运行带 GUI 的主程序  (推荐)
-
-Windows系统直接运行 `APP.bat` 即可启动图形界面系统：
+1.下载release版本:心电图去噪与心率识别分析系统 (ECG Analysis System)中的 APP.bat 和 APP.zip
+2.解压缩APP.zip至./ECG_analysis文件夹内
+3.将APP.bat也放入./ECG_analysis文件夹内
+3.在Windows系统下直接运行 `APP.bat` 即可启动图形界面系统
 
 ### II 使用python运行带 GUI 的主程序 
 
