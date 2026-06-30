@@ -100,10 +100,11 @@ ECG_Analysis/
 ## 🚀 快速开始
 
 ### I 运行带 GUI 的主程序  (推荐)
-1.下载release版本:心电图去噪与心率识别分析系统 (ECG Analysis System)中的 APP.bat 和 APP.zip
-2.解压缩APP.zip至./ECG_analysis文件夹内
-3.将APP.bat也放入./ECG_analysis文件夹内
-3.在Windows系统下直接运行 `APP.bat` 即可启动图形界面系统
+如果您不想配置复杂的 Python 环境，可以直接使用我们打包好的 Windows 开箱即用版本。
+1. **下载文件**：前往项目主页右侧的 **Releases** 页面，下载最新版中的 `APP.zip` 和 `APP.bat`。
+2. **解压存放**：在电脑上新建一个文件夹（例如命名为 `ECG_Analysis`），将 `APP.zip` 解压到该文件夹内。
+3. **放置脚本**：将下载好的 `APP.bat` 也移动到刚才新建的 `ECG_Analysis` 文件夹内。
+4. **一键启动**：在 Windows 系统下，直接双击运行 `APP.bat` 即可启动图形界面
 
 ### II 使用python运行带 GUI 的主程序 
 
