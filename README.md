@@ -15,10 +15,10 @@
 ## 📸 系统预览
 
 ### 🌊 算法工作流
-![工作流](icon/workflow.png)
+![工作流](./ECG_py/icon/workflow.png)
 
 ### 🖥️ 软件主界面
-![软件界面](icon/app.png)
+![软件界面](./ECG_py/icon/app.png)
 
 #### 🎛️ 面板功能说明
 *   **参数调节面板**：
